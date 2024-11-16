@@ -34,9 +34,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pavankalyan-nvs&theme=discord&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy" />
 </div>
 
-💻 Tech Stack
+## 💻 Tech Stack
 
-🎨 Frontend
+### 🎨 Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -51,7 +51,9 @@
   <img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Pipeline-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
-⚙️ Backend
+<br>
+
+### ⚙️ Backend
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
