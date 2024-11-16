@@ -1,19 +1,21 @@
-# <div align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Pavan Kalyan</div>
-
+<h1 align="center">Hey there! 👋 I'm Pavan Kalyan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB+%7C+Frontend+%2B+Backend;React+%2B+TypeScript+Expert+%F0%9F%8E%AF+%7C+Python+Enthusiast+%F0%9F%90%8D;AWS+Cloud+Architecture+%E2%98%81%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+FastAPI+%E2%9A%A1;Building+scalable+and+robust+applications+%F0%9F%8F%97%EF%B8%8F;Always+learning%2C+always+innovating+%F0%9F%9A%80" alt="Typing SVG" />
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB+%7C+Frontend+%2B+Backend;React+%2B+TypeScript+Expert+%F0%9F%8E%AF+%7C+Python+Enthusiast+%F0%9F%90%8D;AWS+Cloud+Architecture+%E2%98%81%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+FastAPI+%E2%9A%A1;Building+scalable+and+robust+applications+%F0%9F%8F%97%EF%B8%8F;Always+learning%2C+always+innovating+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://nvspavankalyanch.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/👁️_Profile_Views-48-brightgreen?style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/pavankalyan-nvs?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/🤝_Followers-125-blue?style=for-the-badge" alt="GitHub Followers" />
+  </a>
 </div>
-
 <div align="center">
-  <a href="https://nvspavankalyanch.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=pavankalyan-nvs">
-    <img src="https://komarev.com/ghpvc/?username=pavankalyan-nvs&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/pavankalyan-nvs?tab=followers">
-    <img src="https://img.shields.io/github/followers/pavankalyan-nvs?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  </a>
+  <img src="https://img.shields.io/badge/Total%20Contributions-301-blue?style=for-the-badge&logo=github" alt="Total Contributions"/>
+  <img src="https://img.shields.io/badge/Current%20Streak-8-blue?style=for-the-badge&logo=github" alt="Current Streak"/>
+  <img src="https://img.shields.io/badge/Total%20Stars-6-yellow?style=for-the-badge&logo=github" alt="Total Stars"/>
 </div>
 
 ## 📊 GitHub Statistics
