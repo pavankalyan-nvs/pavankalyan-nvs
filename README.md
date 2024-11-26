@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB+%7C+Frontend+%2B+Backend;React+%2B+TypeScript+Expert+%F0%9F%8E%AF+%7C+Python+Enthusiast+%F0%9F%90%8D;AWS+Cloud+Architecture+%E2%98%81%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+FastAPI+%E2%9A%A1;Building+scalable+and+robust+applications+%F0%9F%8F%97%EF%B8%8F;Always+learning%2C+always+innovating+%F0%9F%9A%80" alt="Typing SVG" />
 <div align="center">
-  <a href="https://nvspavankalyanch.netlify.app" target="_blank">
+  <a href="https://pavankalyan-nvs.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="#" target="_blank">
