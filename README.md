@@ -5,18 +5,18 @@
   <a href="https://pavankalyan-nvs.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/👁️_Profile_Views-48-brightgreen?style=for-the-badge" alt="Profile Views" />
+  <a href="https://komarev.com/ghpvc/?username=pavankalyan-nvs">
+    <img src="https://komarev.com/ghpvc/?username=pavankalyan-nvs&style=for-the-badge&color=brightgreen&label=%F0%9F%91%81%20Profile%20Views" alt="Profile Views" />
   </a>
-  <a href="https://github.com/pavankalyan-nvs?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/🤝_Followers-125-blue?style=for-the-badge" alt="GitHub Followers" />
-  </a>
+  <a href="https://github.com/pavankalyan-nvs?tab=followers">
+    <img src="https://img.shields.io/github/followers/pavankalyan-nvs?label=🤝 Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</a>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/Total%20Contributions-301-blue?style=for-the-badge&logo=github" alt="Total Contributions"/>
   <img src="https://img.shields.io/badge/Current%20Streak-8-blue?style=for-the-badge&logo=github" alt="Current Streak"/>
   <img src="https://img.shields.io/badge/Total%20Stars-6-yellow?style=for-the-badge&logo=github" alt="Total Stars"/>
-</div>
+</div> -->
 
 ## 📊 GitHub Statistics
 
